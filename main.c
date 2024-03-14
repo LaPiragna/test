@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <time.h>
 
 int main() {
     System.out.println("Hello World!");
@@ -10,6 +11,6 @@ int main() {
 
 
     System.out.println("Commit made from git!");
-    
+
     return 0;
 }
